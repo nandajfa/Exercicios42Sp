@@ -1,2 +1,2 @@
 #!/bin/sh
-ls -a | wc -l
+find -type f,d | wc -l
